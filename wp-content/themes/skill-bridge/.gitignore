@@ -1,0 +1,15 @@
+# WordPress Core Files and Folders
+/wp-admin/
+/wp-includes/
+/wp-config.php
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/plugins/
+/wp-content/themes/twentytwenty/
+/wp-content/themes/twentytwentyone/
+
+# Common files to ignore
+*.log
+*.sql
+*.env
+.htaccess
